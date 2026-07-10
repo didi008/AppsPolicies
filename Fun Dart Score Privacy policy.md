@@ -47,8 +47,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** support@kirbytte.com  
-**Website:** https://kirbytte.com
+**Email:** kirbytte.dev@gmail.com  
+**Website:** https://kirbytte.com (incoming)
 
 ---
 *This App is compliant with the Google Play Store developer requirements.*
